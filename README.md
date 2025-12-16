@@ -1,4 +1,4 @@
-## Hola, soy Cristhian
+## Hola, soy Cristhian 👋
 
 ## 🚀 Tecnologías que uso
 - 🟦 **Java**
